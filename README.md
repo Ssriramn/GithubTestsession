@@ -1,2 +1,2 @@
 # GithubTestsession
-test repo
+test repo while training
